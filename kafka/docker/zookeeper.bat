@@ -1,0 +1,1 @@
+docker run -d --name zookeeper-server --network mongodb-network -e ALLOW_ANONYMOUS_LOGIN=yes bitnami/zookeeper:latest

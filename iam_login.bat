@@ -1,0 +1,1 @@
+firefox --new-tab "https://397798106129.signin.aws.amazon.com/console"

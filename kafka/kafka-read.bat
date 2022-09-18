@@ -1,1 +1,1 @@
-kafka-console-consumer.bat --topic %1 --from-beginning --bootstrap-server localhost:9092
+kafka-console-consumer.bat --topic topic_code_scan --bootstrap-server kafka-server:9092
